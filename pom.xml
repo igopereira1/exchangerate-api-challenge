@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>ExchangeRateApiChallenge</artifactId>
+    <artifactId>exchangerate-api-challenge</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -28,5 +28,4 @@
             <version>3.0.0</version>
         </dependency>
     </dependencies>
-
 </project>
